@@ -10,7 +10,7 @@
         <ImageBrush ImageSource="/Images/soccer-field.png"/>
     </Window.Background>
     <Canvas>
-        <Image x:Name="Ball" Height="41" Canvas.Left="380" Source="/Images/football.png" Stretch="Fill" Canvas.Top="197" Width="40"/>
+        <Image x:Name="Ball" Height="41" Canvas.Left="255" Source="/Images/football.png" Stretch="Fill" Canvas.Top="116" Width="40"/>
     </Canvas>
 
 </Window>
