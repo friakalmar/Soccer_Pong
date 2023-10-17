@@ -1,5 +1,5 @@
 # Soccer_Pong
-En mall för studsande boll
+En uppgift utifrån mallen - en studsande boll
 
 Här blir er uppgift att skapa ett tvåmannaspel med en spelare framför varje mål. 
 Ni har en grund med en studsande boll där ni ska känna av om en spelare blockerar bollen - då ska bollen byta riktning. 
