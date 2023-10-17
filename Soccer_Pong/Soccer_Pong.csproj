@@ -1,0 +1,21 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <UseWPF>true</UseWPF>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\football.png" />
+    <None Remove="Images\soccer-field.png" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\football.png" />
+    <Resource Include="Images\soccer-field.png" />
+  </ItemGroup>
+
+</Project>
